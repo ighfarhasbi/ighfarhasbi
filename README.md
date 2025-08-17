@@ -34,10 +34,8 @@
 
 ###
 
-<div align="left">
-  ![https://www.linkedin.com/in/ighfar-hasbi-ashshiddiqi-099541223/](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)
-  ![https://www.instagram.com/hasbiighfar/](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge)
-</div>
+![https://www.linkedin.com/in/ighfar-hasbi-ashshiddiqi-099541223/](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)
+![https://www.instagram.com/hasbiighfar/](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge)
 
 ###
 
