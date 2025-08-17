@@ -1,6 +1,4 @@
-<div align="center">
-  <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGowbnB3cmdwd3lpdHp4YWNvZ2NlZ2lvY25qMXczYWFsbGx4MDJycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u2pmTWUi0MXjyrMaVj/giphy.gif"  />
-</div>
+![ighfarhasbi](img/github-header-banner.png)
 
 ###
 
